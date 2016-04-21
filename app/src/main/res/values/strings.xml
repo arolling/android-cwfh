@@ -11,6 +11,13 @@
         <item>Multi-Media</item>
         <item>About Us</item>
         <item>Blog</item>
-        <item>Personal Blog</item>
     </string-array>
+    <string name="home_page">Clean Water for Haiti is a long-term mission to provide affordable water filters to Haitian families. <a href="http://www.cleanwaterforhaiti.org/index.html">Click here</a> for more information. </string>
+    <string name="what_we_do">"The filters we distribute are called <a href="http://www.cleanwaterforhaiti.org/_what_biosand.html">Biosand Water Filters</a>.\n\nThrough our Filter Project and user follow up education Haitian families are taught about healthy sanitation and hygiene practices that can help prevent disease. For more information, visit the <a href="http://www.cleanwaterforhaiti.org/_what_project.html">Filter Project page</a>.\n\nOur Technician Training Classes provide an opportunity for other organizations in Haiti to train local people so they can implement and maintain a filter project in the areas they are working in. For more information, visit the <a href="http://www.cleanwaterforhaiti.org/_what_training.html">training classes page</a>.\n\n We are often contacted with a variety of questions about Biosand filters, how we run our filter project and training classes and how people can be involved with Clean Water for Haiti. We would encourage you to visit our <a href="http://www.cleanwaterforhaiti.org/_what_faq.html">FAQ</a> page for more information about these topics."</string>
+    <string name="get_involved">There are lots of ways to <a href="http://www.cleanwaterforhaiti.org/_getinvolved.html">get involved</a>, like Vision Trips, Volunteering, or connecting to us through our blogs.</string>
+    <string name="how_to_give">We could not operate without our generous donors. <a href="http://www.cleanwaterforhaiti.org/_howtogive.html">Find out</a> about how to give.</string>
+    <string name="multi_media">See <a href="http://www.cleanwaterforhaiti.org/_multimedia.html">videos</a> about Haiti and our experience there.</string>
+    <string name="about_us">We have been operating in Haiti sine 2001. For more information, see <a href="http://www.cleanwaterforhaiti.org/_aboutus.html">here</a> </string>
+    <string name="blog">Our <a href="https://cleanwaterforhaitiblog.wordpress.com/">blog</a>, updated regularly, has more information and insights into our lives.</string>
+
 </resources>
